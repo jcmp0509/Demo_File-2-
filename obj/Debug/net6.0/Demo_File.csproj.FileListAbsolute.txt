@@ -1,0 +1,15 @@
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\bin\Debug\net6.0\Demo_File.exe
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\bin\Debug\net6.0\Demo_File.deps.json
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\bin\Debug\net6.0\Demo_File.runtimeconfig.json
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\bin\Debug\net6.0\Demo_File.dll
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\bin\Debug\net6.0\Demo_File.pdb
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\obj\Debug\net6.0\Demo_File.csproj.AssemblyReference.cache
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\obj\Debug\net6.0\Demo_File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\obj\Debug\net6.0\Demo_File.AssemblyInfoInputs.cache
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\obj\Debug\net6.0\Demo_File.AssemblyInfo.cs
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\obj\Debug\net6.0\Demo_File.csproj.CoreCompileInputs.cache
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\obj\Debug\net6.0\Demo_File.dll
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\obj\Debug\net6.0\refint\Demo_File.dll
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\obj\Debug\net6.0\Demo_File.pdb
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\obj\Debug\net6.0\Demo_File.genruntimeconfig.cache
+C:\Users\jcmp0\OneDrive - University of South Florida\ISM4300\Demo_File\obj\Debug\net6.0\ref\Demo_File.dll
